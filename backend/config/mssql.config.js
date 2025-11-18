@@ -1,8 +1,8 @@
 export default {
-  user: "gym_admin",
-  password: "mypassword",
-  database: "GymMainDB",
-  server: "SERVERNAME\\SQLEXPRESS",
+  user: "sa",
+  password: "P@55w0rd",
+  database: "PEDSPMS",
+  server: ".\SQL2012",
   options: {
     encrypt: false,
     trustServerCertificate: true
